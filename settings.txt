@@ -1,0 +1,4 @@
+url=rtmp://a.rtmp.youtube.com/live2
+key=#KEY-HERE#
+ffmpeg_quiet=True
+

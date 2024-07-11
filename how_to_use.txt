@@ -1,0 +1,12 @@
+Script uses ffmpeg-python library you can install with:
+    python -m pip install ffmpeg-python
+
+You should put your section folder in files with everything already inside of it.
+
+After putting the folder script will play the sections in alphabetical order.
+
+You can add music and genres into sections but they wont be updated while the current section is still running, it will run when same section plays again.
+
+You will have to copy url and key from your stream to the settings.txt file after the = .
+
+If script stop unexpectedly (as an error) turn ffmpeg_quiet to False(it should be True normally) and send me the entire error message.
